@@ -1,2 +1,24 @@
 ![Yeye 1](img/pop.jpeg)
 
+# Dalvik executabl
+adalah shell scirpt yang saya bikin untuk
+Mengoptimalkan Semua Kode DEX ( Dalvik executabl ) pada semua Aplikasi sistem
+agar kode aplilasi bisa berjalan efisien
+
+# Efek yang di dapat ❓️
+- Meningkatkan performance
+- Mengurangi lag dan stuttering
+- Menjecah Crash pada Aplikasi
+- Mempercepat Loding aplikasi
+- Mengurangi beban CPU ,GPU And RAM
+- Memperkecil resould backguornd untuk memperlancar Multitaski 
+
+## Sarat pengguna ❓️
+Orang itu harus sudah memahami modifikasi 
+perngkat dan paham akan besick nonroot dill.
+
+ ## ⚠️WARING :
+ Kalo penggun mau meyertakan script saya di dalam
+ Module mohon sertakain creadit kalo tidak di sertakan
+ creadit saya tidak bertanggunv jawab atas hal 
+ script yang di pake pengguna dill
