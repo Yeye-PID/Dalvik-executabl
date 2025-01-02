@@ -1,4 +1,5 @@
-![Yeye 1](img/pop.jpeg)
+![ID](https://github.com/Yeye-PID/Dalvik-executabl/blob/main/img/pop.jpeg)
+
 
 # Dalvik executabl 🍃
 adalah shell scirpt yang saya bikin untuk
@@ -20,6 +21,10 @@ agar kode aplilasi bisa berjalan efisien
 ## Sarat pengguna ❓️
 Orang itu harus sudah memahami modifikasi 
 perngkat dan paham akan besick nonroot dill.
+
+## PEMBUAT ❓️
+- Telegram : @Yeye_nat
+- Support  : https://t.me/shdow95
 
  ## ⚠️WARING :
  Kalo penggun mau meyertakan script saya di dalam
