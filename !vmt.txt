@@ -1,0 +1,61 @@
+        [ Dalvik executable - Nonroot ]
+                   Author 
+     Telegram Yeye_nat | Github Yeye-PID
+                version : 1.0
+       ////////////////\\\\\\\\\\\\\\\\
+            install with > Brevent
+            
+            
+ Disclemoer shell :
+- Shell script ini saya bikin untuk mengoptimalakan sumber daya CPU ,GPU And RAM dengan memanfaatkan DEX ( dalvik executable )
+
+Dengan memanfaatkan DEX ( Dalvik Executable ) kita dapat meningkatkan Device kita 
+
+Dengan cara :
+- Mengcompilasi semua kode aplikasi sistem
+- Mengurangi pengguaan sumber daya aplikasi backgurond
+- Memastikan semua kode aplikasi dibuat secara efisien
+- Mengurangi pengguaan resouat RAM
+
+Efek yang didapat ketika memakai script :
+- Mengurangi lag , stuttering And crash Aplikasi
+- Meningkatkan Performance aplikasi And frame rate
+- Mempercepat loading aplikasi
+- Mencegah Overhead pada Device
+- Meningkatkan Kinerja RAM ,CPU And GPU
+And Lain-lainya...
+
+Recomened :
+- Gaming
+- Multiasking
+
+Note :
+- shell script ini tidak meyebabkan Aplikasi mana pun Crash dan lag dikerenakan sudah saya susun seteliti mungkin agar tidak bedampak pada aplikasi manapun dill..
+
+Penanggung Jawab 100% By :
+- @Yeye_nat | Telegram
+- Yeye-PID   | Github
+
+install :
+ 
+⚠️WARNING :
+- Sebeleum menginstall scirpt jalakan dulu 1x perintah ini untuk mencegah script eror :
+mkdir -p /sdcard/ufc
+
+Ekstrak dulu zip ' ATB.zip ' Ke internal
+Lalu Jalankan Perintah down Here :
+rm -rf /data/local/tmp/* && cp /sdcard/shell-Yeye/DEX /data/local/tmp && chmod +x /data/local/tmp/DEX && /data/local/tmp/DEX
+
+⚠️WARNING :
+- jalakan script terus menerus samape muncul Output ini di bawa Object :
+OTA complete.
+(all done)
+
+kalo masih belum muncul Output itu maka kalian harus menjalakan lagi script terus menerus sampai muncul Output yang Telah di kasih tau dill...
+
+uninstall : RIBOOT YUOR PHONE 
+
+Disclemoer Efek :
+- Maaf jika script nya tidak begitu Berefek pada device kalian kerena tiap Device, Kernel And Versi Andorid Berbeda-beda Susah membuat script nya bekerja 100% dill..
+
+⚠️ Especially for those who want to use my script in your Module, please contact me & add credit @Yeye_nat
