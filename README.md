@@ -1,6 +1,6 @@
 ![Yeye 1](img/pop.jpeg)
 
-# Dalvik executabl
+# Dalvik executabl 🍃
 adalah shell scirpt yang saya bikin untuk
 Mengoptimalkan Semua Kode DEX ( Dalvik executabl ) pada semua Aplikasi sistem
 agar kode aplilasi bisa berjalan efisien
@@ -11,7 +11,11 @@ agar kode aplilasi bisa berjalan efisien
 - Menjecah Crash pada Aplikasi
 - Mempercepat Loding aplikasi
 - Mengurangi beban CPU ,GPU And RAM
-- Memperkecil resould backguornd untuk memperlancar Multitaski 
+- Memperkecil resould backguornd untuk memperlancar Multitaski
+
+## Recomened ❓️
+- Gaming
+- Multiasking
 
 ## Sarat pengguna ❓️
 Orang itu harus sudah memahami modifikasi 
